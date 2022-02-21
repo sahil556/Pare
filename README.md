@@ -1,1 +1,1 @@
-# We_Chat_App
+# Pare chat app
