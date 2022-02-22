@@ -11,3 +11,5 @@
 6) Model.popups 1 - https://mdbootstrap.com/docs/b4/jquery/modals/additional/
 
 7) Model.popups 2 - https://speckyboy.com/css-js-notification-alert-code/
+
+8) Model.profile 1 - https://freefrontend.com/bootstrap-profiles/
